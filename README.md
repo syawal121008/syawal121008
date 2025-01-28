@@ -1,114 +1,172 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There!%20I'm%20Syawal%20Mods&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Passionate%20Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=62" />
-
-  <!-- Tambahan: Animated Tech Stack Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+React+Expert;Open+Source+Enthusiast;AI+%26+Automation+Developer;Always+Learning+New+Things" />
-  
-  <!-- Tambahan: Custom Badge -->
-  <br>
-  <img src="https://img.shields.io/badge/Focus-Web_Development-blue?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lives-Indonesia-success?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Age-15-blueviolet?style=for-the-badge&logo=counterstrikelogo&logoColor=white"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There!%20I'm%20Syawal&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Passionate%20Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=62" />
 </div>
 
-<!-- Tambahan: Animated Snake -->
 <div align="center">
-  <img src="https://github.com/syawal121008/syawal121008/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🚀+Full+Stack+Developer;🌟+Open+Source+Enthusiast;💻+Tech+Innovation+Creator;🎯+Problem+Solver;🌐+Web+Development+Expert" alt="Typing SVG" />
 </div>
 
-<!-- Tambahan: Custom Banner -->
+# 🌟 Selamat Datang di Profile GitHub Saya! 
+
+> _"Kode adalah puisi dalam bahasa komputer. Mari kita ciptakan masterpiece bersama!"_ 🎨
+
 <div align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=syawal121008&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=syawal121008&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=syawal121008&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=syawal121008&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/syawal121008?style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/syawal121008?style=for-the-badge" alt="stars" />
 </div>
 
-<!-- Tambahan: Animated Metrics -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/syawal121008?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta" />
-</div>
-
-## 🎭 About Me
+## 🎭 Persona Digital
 
 ```javascript
-const syawalMods = {
-    name: "Syawal Mods",
-    age: 15,
-    location: "Indonesia",
-    role: "Full Stack Developer & Tech Enthusiast",
-    languages: ["Indonesia", "English"],
-    techStack: {
-        frontEnd: ["React", "Vue.js", "Tailwind CSS", "Bootstrap"],
-        backEnd: ["Laravel", "Node.js", "Express"],
-        databases: ["MySQL", "MongoDB", "PostgreSQL"],
-        devOps: ["Docker", "Kubernetes", "AWS"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentlyLearning: ["System Architecture", "AI Integration", "Cloud Native"],
-    funFact: "I transform caffeine into code! ☕→💻"
+const syawalProfile = {
+    nama: "Syawa Mods",
+    title: "Full Stack Developer Extraordinaire",
+    lokasi: "🇮🇩 Indonesia",
+    passion: ["Coding", "Problem Solving", "Innovation"],
+    quotes: "Transformasi digital dimulai dari kode yang bersih",
+    superpower: "Mengubah kopi menjadi kode ☕→💻",
+    misi: "Menciptakan solusi teknologi yang membawa dampak positif"
 };
 ```
 
-## 🎯 Current Projects
+## 🚀 Journey Profesional Saya
 
-<!-- Tambahan: Animated Project Cards -->
+```mermaid
+graph LR
+    A[Junior Dev] --> B[Web Developer]
+    B --> C[Full Stack]
+    C --> D[Tech Lead]
+    D --> E[Future: Solution Architect]
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#bbf,stroke:#333,stroke-width:4px
+    style C fill:#ddf,stroke:#333,stroke-width:4px
+    style D fill:#ddf,stroke:#333,stroke-width:4px
+    style E fill:#fdd,stroke:#333,stroke-width:4px
+```
+
+## 💫 Expertise & Tools
+
+### 🎯 Primary Stack
 <div align="center">
-  <a href="https://github.com/syawal121008/siswa_diklat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syawal121008&repo=siswa_diklat&theme=radical" />
-  </a>
-  <!-- Tambahkan project lain di sini -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,vue,docker,kubernetes,mysql,postgres,redis,nginx,git" />
 </div>
 
-## 💼 Skills & Tools
-
-<!-- Tambahan: Animated Skill Bars -->
+### 🛠️ Development Arsenal
 <div align="center">
-  
-### 👨‍💻 Programming Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-### 💾 Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+  <table>
+    <tr>
+      <td><strong>Category</strong></td>
+      <td><strong>Technologies</strong></td>
+    </tr>
+    <tr>
+      <td>Frontend Magic ✨</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>Backend Power 💪</td>
+      <td>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>Database Masters 🎲</td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>DevOps & Cloud ☁️</td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📈 GitHub Activity
+## 📊 GitHub Statistics
 
-<!-- Tambahan: Activity Graph -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=syawal121008&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syawal121008&theme=radical" />
 </div>
 
-## 🎵 Currently Vibing To
-<!-- Tambahan: Spotify Real-time -->
 <div align="center">
-  <a href="https://open.spotify.com/user/your-spotify-id">
-    <img src="https://novatorem-orcin-ten.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syawal121008&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syawal121008&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 📫 Connect With Me
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syawal121008&theme=radical&hide_border=false" />
+</div>
+
+## 🏆 Achievements & Certifications
 
 <div align="center">
-  <a href="mailto:syawalbotz5@gmail.com">
+  <img src="https://github-profile-trophy.vercel.app/?username=syawal121008&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
+</div>
+
+
+## 🎯 Project Showcase
+
+### 💼 Portfolio Highlight
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Tech Stack</th>
+      <th>Highlights</th>
+    </tr>
+    <tr>
+      <td>
+        <strong>🎓 Siswa Diklat</strong><br>
+        <a href="https://github.com/syawal121008/siswa_diklat">
+          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+      </td>
+      <td>
+        - 📈 1000+ Active Users<br>
+        - 🚀 99.9% Uptime<br>
+        - ⚡ Lightning Fast Performance
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🛒 E-Commerce Platform</strong><br>
+        <a href="#">
+          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </td>
+      <td>
+        - 💳 Multiple Payment Integrations<br>
+        - 📱 Responsive Design<br>
+        - 🔒 Advanced Security Features
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📱 Connect With Me
+
+<div align="center">
+  <a href="syawalbotz5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/6288225715139">
@@ -122,10 +180,41 @@ const syawalMods = {
   </a>
 </div>
 
-<!-- Tambahan: Profile Visit Counter -->
+## 🎯 Current Focus
+
+```javascript
+const currentFocus = {
+    belajar: [
+        "🎯 Architecture Patterns",
+        "☁️ Cloud Native Development",
+        "🤖 AI Integration in Web Apps",
+        "📱 Progressive Web Apps"
+    ],
+    project: [
+        "🚀 Scaling Microservices",
+        "📊 Data Analytics Platform",
+        "🌐 Open Source Contributions"
+    ],
+    goals2024: {
+        technical: "Master System Design & Architecture",
+        personal: "Contribute to Major Open Source Projects",
+        community: "Share Knowledge through Tech Talks"
+    }
+};
+```
+
+## 🎵 Spotify Playing
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/syawal121008/count.svg" alt="Visitor Count" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default" />
 </div>
 
-<!-- Tambahan: Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <strong>🚀 Let's create something amazing together! 🌟</strong>
+</div>
